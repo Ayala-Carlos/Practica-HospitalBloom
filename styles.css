@@ -53,7 +53,8 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-    text-decoration: underline;
+    color: #39e6a4;
+    font-size: 1.4rem;
 }
 
 /* Contenido Principal */
